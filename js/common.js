@@ -3,6 +3,8 @@ $(document).ready(function(){
     const swiper = new Swiper('.swiper-container', {
         // Optional parameters       
         loop: true,
+        speed: 400,
+        spaceBetween: 100,
       
         // If we need pagination
         pagination: {
