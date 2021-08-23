@@ -1,0 +1,222 @@
+@charset "UTF-8";
+
+* {
+    font-family: 'Nanum Gothic', sans-serif;
+    margin: 0; padding:0;
+}
+
+.wrap {
+    width: 1000px;
+    margin: auto;
+    display: block;
+}
+
+.top_wrap {
+    width: 1980px;
+    height: 150px;
+    background-image: url(../image/top_image.png);
+    position: relative;
+    z-index: 1;
+}
+
+.title_name {
+    margin: auto auto auto 785px;
+    padding-top: 40px;
+    display: block;
+}
+
+.search {
+    width: 508px;
+    height: 50px;
+    margin: -20px auto 50px;
+    position: relative;
+    z-index: 2;
+    background-color: white;
+
+}
+
+.input-group mb-3 {
+    background-color: white;
+}
+
+
+.slide_box {
+    margin: -20px auto;
+    width: 950px;
+    height: 243px;
+
+}
+
+.sd_line {
+    border: solid 1px #ffb2bc;
+    width: 947px;
+    margin-top: -10px;
+
+}
+
+.slide_area {
+    margin: auto;
+    width: 950px;
+    height: 220px;
+    border: black 1px;
+    background-color: white;
+}
+
+.carousel-inner {
+    width: 900px;
+    height: 220px;
+}
+
+.post_box {
+    margin: auto;
+    width: 950px;
+    height: 150px;
+
+
+}
+
+.it_reimg {
+    width: 114px;
+    height: 43px;
+    margin: 45px auto;
+    float: left;
+
+}
+
+.it_reimgdown {
+    margin: 10px auto;
+    width: 114px;
+    font-size: 9px;
+    text-align: center;
+
+}
+
+.it_reline {
+    margin-left: 17px;
+    width: 1px;
+    height: 141px;
+    background-color: #acacac;
+    float: left;
+}
+
+
+.post_inputbox {
+    margin: 20px auto auto;
+    width: 670px;
+    float: left;
+}
+
+#exampleInputposting {
+    margin: -20px auto auto 20px;
+    width: 697px;
+    height: 93px;
+    border-radius: 1px;
+
+}
+
+.restar_box {
+    margin: -20px auto auto 20px;
+}
+
+.reinfo {
+
+    width: 697px;
+    height: 17px;
+
+
+}
+
+#renick {
+
+    margin: 7px auto auto 20px;
+    width: 128px;
+    height: 17px;
+    border-radius: 1px;
+
+
+}
+
+#rebookurl {
+    margin: -33px auto auto 156px;
+    width: 561px;
+    height: 17px;
+    border-radius: 1px;
+
+}
+
+#post_btn {
+    width: 99px;
+    height: 139px;
+    padding: 0px;
+    margin: -127px auto auto 720px;
+    background: url("../image/posting_btn.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.post-list {
+    margin: 90px auto auto 5px;
+    width: 1000px;
+    height: 220px;
+}
+
+.card {
+    margin: auto auto auto 20px;
+    width: 220px;
+    height: 220px;
+    display: inline-block;
+}
+
+#postnum {
+    margin: 40px auto auto 430px;
+}
+
+.foot_line {
+    border: solid 1px #ffb2bc;
+    width: 1980px;
+    margin: -380px auto;
+
+}
+
+
+#footinfo {
+    margin: 300px auto;
+    width: 1980px;
+    height: 80px;
+
+
+}
+
+.footer_info {
+
+    margin: auto;
+    display: block;
+
+
+
+}
+
+.footlogo {
+    margin: auto;
+display: inline-block;
+}
+
+.info_one {
+    margin: auto;
+    padding-top: 30px;
+    font-size: 10px;
+    color: #2c2c2c;
+display: inline-block;
+
+}
+
+.info_two {
+    margin: auto;
+    font-size: 10px;
+    color: #2c2c2c;
+
+display: inline-block;
+
+}
+
+
